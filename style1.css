@@ -1,0 +1,18 @@
+body{
+    background-color: #a0aecd;
+}
+
+/* #1{
+    width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        border: 5px solid #000; /* Change color and width as needed */
+        object-fit: cover;
+ */
+
+#edu{
+    background-color:#7c98d3 ;
+}
+#proj{
+    background-color: aquamarine;
+}
